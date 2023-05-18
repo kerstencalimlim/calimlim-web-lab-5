@@ -1,0 +1,20 @@
+body{
+    background-color: Black;
+    background-size: cover;
+}
+
+h1 {
+    font-family: lightred;
+    font-size: 100px;
+    font-weight: 100;
+    text-align: center;
+    color: rgb(52, 3, 230);
+    background-color: lightblue;
+}
+p {
+    color: brown;
+    font-size: 25px;
+    background-color: rgb(140, 225, 12);
+    text-indent: 30px;
+    text-align: center;
+}
